@@ -1,0 +1,42 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.butt{
+  color: white;
+  background-color: lightseagreen;
+  border-color: lightblue;
+  padding: 10px;
+  border-radius: 15px;
+}
+.log{
+  color: lightblue;
+  text-align: center;
+}
+.input{
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  border-color: white;
+  margin-right: 10px;
+  margin-top: 40px;
+  width: 400px;
+}
+
+.image{
+  background-image: url(images/img2.jpg);
+  display: flex;
+  justify-content: center;
+}
+.body{
+  display: flex;
+padding: 100px;
+justify-content: space-evenly;
+
+}
+.pic{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
